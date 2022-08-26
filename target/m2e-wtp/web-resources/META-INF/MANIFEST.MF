@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: muham
+Build-Jdk: 16.0.1
+Implementation-Title: weather
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.umraok
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/weather
+Created-By: Maven Integration for Eclipse
+
